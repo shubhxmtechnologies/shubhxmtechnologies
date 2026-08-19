@@ -41,7 +41,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,tailwind,redux,nodejs,express,nginx,mongodb,postgres,prisma,supabase,firebase,aws,docker,linux,cloudflare,vercel,githubactions,git,github,postman,sentry,wordpress&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,tailwind,redux,nodejs,express,nginx,mongodb,postgres,prisma,supabase,firebase,linux,cloudflare,vercel,git,github,postman,sentry,wordpress&perline=10" alt="My Skills" />
   </a>
 </p>
 
