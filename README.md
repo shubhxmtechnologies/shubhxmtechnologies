@@ -1,49 +1,86 @@
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
-<h3 align="center">Full Stack Developer | Building Scalable Web & Real-Time Systems</h3>
+# Hi, I'm Shubham Kumar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhxmtechnologies&label=Profile%20views&color=0e75b6&style=flat" alt="shubhxmtechnologies" />
-</p>
+### Junior Web Developer | React.js, Next.js & JavaScript
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhxmtechnologies" alt="shubhxmtechnologies" />
-  </a>
-</p>
+BCA graduate based in Mohali, Punjab, India. Open to entry-level Frontend Developer, React.js Developer, Junior Web Developer and suitable Full-Stack Developer roles, including paid internships.
+
+[Portfolio](https://portfoliio-661.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/shubhamtechnologies/) · [Email](mailto:shubhxmtechnologies@gmail.com)
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-- 🔭 **Experience:** Full Stack Developer with **3+ years of experience**, having shipped **10+ freelance & institutional products** to production.
-- 💻 **Core Tech:** JavaScript, TypeScript, React, Next.js, Node.js, and modern database architectures.
-- 🌱 **Specialties:** Real-time systems (WebSockets), API optimization, clean backend architecture, and CS fundamentals.
-- 🌐 **Portfolio:** [shubhamkumar.dev](https://tinyurl.com/2nzsrfu6)
-- 📫 **Contact:** [shubhxmtechnologies@gmail.com](mailto:shubhxmtechnologies@gmail.com)
-- ⚡ **Fun Fact:** I love turning complex architectural problems into clean, modular code.
+- BCA graduate from Swami Vivekanand Institute of Engineering and Technology (SVIET), affiliated with IKGPTU.
+- Gained hands-on web-development experience through a stipend-based college project program.
+- Contributed to institutional web projects, including the SVIET Official College Portal and the SVIET B.Pharmacy Platform.
+- Built personal web applications involving frontend interfaces, APIs, databases and real-time features.
+- Currently strengthening my JavaScript, React, debugging, backend fundamentals and ability to explain technical decisions clearly.
+- Open to entry-level web-development opportunities in Mohali, Chandigarh, the Tricity area and remote India.
+
+## Technologies I've Used
+
+**Frontend:** HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap
+
+**Backend:** Node.js, Express.js, REST APIs, Socket.io, JWT authentication
+
+**Databases:** MongoDB, Mongoose, PostgreSQL, Firebase
+
+**Tools and Deployment:** Git, GitHub, Postman, Cloudinary, Linux, Nginx, PM2, VPS deployment
+
+*This list represents technologies used in my projects. My current proficiency varies by technology.*
+
+## Selected Projects
+
+### 1. SVIET Official College Portal
+
+Contributed to development work on the institutional website and its administrative content-management functionality.
+
+**Technologies:** Next.js, React, Node.js, Express.js, MongoDB
+
+[Visit the live website](https://sviet.org.in/)
+
+### 2. SVIET B.Pharmacy Platform
+
+Worked on responsive pages for academic information, program directories and syllabus resources.
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS
+
+[Visit the website](http://svcp.org.in/)
+
+### 3. Real-Time Chat Application
+
+A messaging application with group messaging, voice notes and active-status features.
+
+**Technologies:** React, TypeScript, Node.js, Socket.io, MongoDB
+
+[Open the live demo](https://pinsta-chat.shubhxmtechnologies.workers.dev/)
+
+### 4. Collaborative Kanban Board
+
+A task-management application featuring drag-and-drop workflows, comments and real-time updates.
+
+**Technologies:** React, TypeScript, Node.js, Socket.io, Zustand
+
+[Open the live demo](https://kanban.shubhxmtechnologies.workers.dev/)
 
 ---
 
-### 🌐 Connect With Me
+## Education
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shubhamtechnologies" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/shubhxm_dhiman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+**Bachelor of Computer Applications (BCA)**  
+Swami Vivekanand Institute of Engineering and Technology (SVIET)  
+Affiliated with I.K. Gujral Punjab Technical University  
+2023–2026 · Completed June 2026
 
----
+## Recognition
 
-### 🛠️ Languages and Tools
+- Received SVIET leadership recognition and a Director's Letter of Appreciation for contributions to institutional digital work.
+- Smart India Hackathon team leader, 2024.
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,react,nextjs,tailwind,redux,nodejs,express,nginx,mongodb,postgres,prisma,supabase,firebase,linux,cloudflare,vercel,git,github,postman,sentry,wordpress&perline=10" alt="My Skills" />
-  </a>
-</p>
+## Contact
 
----
+I'm open to discussing suitable entry-level web-development opportunities and paid internships.
 
+- **Portfolio:** https://portfoliio-661.pages.dev/
+- **LinkedIn:** https://www.linkedin.com/in/shubhamtechnologies/
+- **Email:** shubhxmtechnologies@gmail.com
